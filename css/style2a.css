@@ -1,0 +1,69 @@
+.header {
+    min-height: 100px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: gainsboro;
+    margin-bottom: 10px;
+    
+}
+
+.navigation {
+    min-height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: gainsboro;
+     margin-bottom: 10px;
+}
+
+.banner {
+    min-height: 200px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: gainsboro;
+     margin-bottom: 10px;
+}
+
+.content {
+    min-height: 400px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: gainsboro;
+    margin-bottom: 10px;
+}
+
+.sidebar {
+    min-height: 400px;
+    width: 30%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: gray;
+    margin-bottom: 10px;
+    float: left;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.bodyarea {
+     min-height: 400px;
+    width: 68.2%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: gray;
+    margin-bottom: 10px;
+    overflow: hidden;
+      margin: 10px;
+
+}
+
+.footer {
+    min-height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    background-color: gainsboro;
+    margin-bottom: 5px;
+}
