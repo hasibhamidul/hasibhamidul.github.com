@@ -1,0 +1,237 @@
+
+.lang{
+    min-height: 40px;
+    width: 20%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    float: right;
+}
+
+
+.header {
+    min-height: 200px;
+    width: 100%;
+    box-sizing: border-box;
+   /*border: 1px solid blue;*/
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.left {
+     min-height: 180px;
+    width: 16%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-left: 0%;
+    margin-top: 10px;
+    float: left;
+    
+}
+
+.leftt{
+       min-height: 180px;
+    width: 54%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-left: 2%;
+    margin-top: 5px;
+    float: left;
+    
+}
+
+.right {
+     min-height: 190px;
+    width: 28%;
+    /*box-sizing: border-box;
+    border: 1px solid blue;*/
+    margin-right: 0%;
+    margin-top: 5px;
+    float: right;
+ 
+}
+
+.lbox { 
+    min-height: 180px;
+    width: 44%;
+   /* box-sizing: border-box;
+    border: 1px solid blue;*/
+    margin-left: 1%;
+    margin-top: 5px;
+    float: left;
+    overflow: hidden;
+}
+
+.ltop{
+    min-height: 88px;
+    width: 90%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-left: 5%;
+    /*margin-top: 5px;*/
+    margin-bottom: 1px;
+    float: left;
+    
+}
+.lbottom{
+    min-height: 90px;
+    width: 90%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-left: 5%;
+   /* margin-top: 5px;*/
+    float: left;
+}
+
+.rbox {
+    min-height: 180px;
+    width: 38%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-right: 0%;
+    margin-top: 5px;
+    float: right;
+}
+
+
+
+.middle {
+
+    min-height: 600px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+.mleft {
+    min-height: 580px;
+    width: 15%;
+    box-sizing: border-box;
+    /*border: 1px solid blue;*/
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 0.5%;
+    overflow: hidden;
+    float: left;
+}
+
+.mlfttop{
+    min-height: 280px;
+    width: 90%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 4.5%;
+    float: left;
+    overflow: hidden;
+    
+}
+.mlftbottom{
+    min-height: 280px;
+    width: 90%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 4.5%;
+    float: left;
+    overflow: hidden;
+}
+
+
+.mmiddle {
+    min-height: 580px;
+    width: 68%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-bottom: 10px;
+    margin-left: 0.5%;
+    margin-top: 10px;
+    float: left;
+    overflow: hidden;
+  
+}
+.mmidtop{
+    min-height: 100px;
+    width: 98%;
+    margin-top: 4px;
+    margin-left: 1%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+}
+
+.mmmid{
+    min-height: 100px;
+    width: 50%;
+    margin-top: 4px;
+    margin-left: 1%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    
+}
+
+.mmidbottom{
+    min-height: 350px;
+    width: 98%;
+    margin-top: 4px;
+    margin-left: 1%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    
+    
+}
+
+.mmidbottomo{
+    min-height: 150px;
+    width: 98%;
+    margin-top: 4px;
+    margin-left: 1%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    
+    
+}
+
+.mright {
+    min-height: 580px;
+    width: 15%;
+    box-sizing: border-box;
+    /*border: 1px solid blue;*/
+    margin-bottom: 10px;
+    margin-left: 0.5%;
+    margin-top: 10px;
+    float: left;
+    overflow: hidden;
+}
+
+.mrhttop{
+    min-height: 280px;
+    width: 90%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 4.5%;
+    float: left;
+    overflow: hidden;
+}
+.mrhtbottom{
+    min-height: 280px;
+    width: 90%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-left: 4.5%;
+    float: left;
+    overflow: hidden;
+}
+
+.footer {
+     min-height: 100px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid blue;
+}

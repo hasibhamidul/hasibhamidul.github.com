@@ -1,0 +1,99 @@
+.back {
+    min-height: 1000px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: #2A3B4D;
+}
+
+.logo {
+     
+    min-height: 200px;
+    width: 30%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.formtest {
+    min-height: 700px;
+    width: 60%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: #EEEEEE;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10px;   
+}
+
+.signup {
+    min-height: 60px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 10px 10px 0px 0px;
+ /*background: linear-gradient ( #1C6CA9;#FFFFFF);*/
+    background-color: #0E5895;    
+    margin-bottom: 10px;
+    font-size: 29px;
+    font-family: serif;
+    font-weight: 200;
+    text-decoration-color: white;
+}
+
+.form {
+    height: 70px;
+    border border-radius: 5px;
+    /*border: 1px solid #5D5F60;*/
+    padding-right: 10px;
+    margin-bottom: 10px;
+ 
+}
+
+.font {
+    font-size: 20px;
+    text-align: center;
+    padding-left: 1%;
+    font-family: sans-serif;
+    font-weight: 300;
+
+}
+.input {
+    height: 60px;
+    width: 60%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #C1C1C1;
+    font-size: 25px;
+    margin-right: 10%;
+    margin-top: 5px;
+       float: right;
+}
+.dumtext{
+    font-size: 15px;
+    text-decoration-color: #5D5F60;
+    text-align: left;
+}
+
+input[type="submit"]
+{background-color:#019100;
+color: white;height: 40px;
+width: 150px;
+font-size: 20px;
+border-radius: 5px;
+border: 1px solid #006901;
+float: right;
+margin-right: 2%;
+}
+.footer {
+    min-height: 100px;
+    width: 90%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    margin: auto;
+    margin-top: 10px;
+    
+}
